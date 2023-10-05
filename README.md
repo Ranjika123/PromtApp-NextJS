@@ -98,9 +98,5 @@ Submit a pull request
 License
 This project is licensed under the MIT License.
 
-Happy coding! If you have any questions or need further assistance, feel free to contact us at ranjikaneth2005@gmail.com.
+<h1>Happy coding! If you have any questions or need further assistance, feel free to contact us at [ranjikaneth2005@gmail.com].</h1>
 
-css
-Copy code
-
-Replace the placeholders with your actual project information. You may also w
